@@ -4,6 +4,7 @@ Userscript to hide videos with certain keywords in the title from the Youtube su
 
 Add or remove keywords in Tampermonkey extension dropdown.
 
+
 Tested with Tampermonkey.
 
 
